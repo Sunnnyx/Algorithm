@@ -12,7 +12,7 @@ public class AVLTree extends BSTree{
 
         avlTree.infixList();
 
-        avlTree.del(7);
+        avlTree.del(5);
         avlTree.infixList();
 
 

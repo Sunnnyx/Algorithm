@@ -11,7 +11,6 @@ class BSTree {
         System.out.println(tree.searchParent(37));
         tree.infixList();
         tree.del(62);
-        tree.del(93);
 
         tree.add(111);
 
