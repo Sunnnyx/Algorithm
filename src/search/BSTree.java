@@ -12,7 +12,7 @@ class BSTree {
         tree.infixList();
         tree.del(62);
         tree.del(93);
-        tree.del(37);
+
         tree.add(111);
 
         System.out.println("--------------------------");

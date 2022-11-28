@@ -11,7 +11,7 @@ public class AVLTree extends BSTree{
         }
 
         avlTree.infixList();
-        System.out.println(avlTree.searchParent(8));
+
         avlTree.del(7);
         avlTree.infixList();
 
